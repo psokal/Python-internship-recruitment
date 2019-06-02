@@ -1,6 +1,6 @@
 # python-internship-recruitment
 This project analyzes data of people who joined and passed the final exams between 2010 and 2018.
-Script matura.py solves [these five](https://github.com/psokal/Python-rekrutacja/backend_zadanie-python.txt) problems.
+Script matura.py solves [these five](https://github.com/psokal/python-internship-recruitment/blob/master/backend_zadanie-python.txt) problems.
 
 
 ## Documentation
